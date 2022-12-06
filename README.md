@@ -12,4 +12,5 @@
 
 - Alancay, Abel Matías -> [link al ejercicio](https://github.com/CodeSystem2022/Asistencia_Noviembre_Error_404/blob/main/Ejercicio_3.java)
 
+- Ahumada, Brian -> [link al ejercicio](https://github.com/CodeSystem2022/Asistencia_Noviembre_Error_404/blob/main/Asistencia.py)
 ---
