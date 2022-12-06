@@ -1,4 +1,4 @@
-# :star: Asistencia de Noviembre para la TEcnicatura Universitaria en Proframación (UTN - FRSR)
+# :star: Asistencia de Noviembre para la Tecnicatura Universitaria en Proframación (UTN - FRSR)
 
 - **Materias**: Laboratorio || y Programación ||
 
