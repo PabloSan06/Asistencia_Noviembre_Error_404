@@ -1,4 +1,4 @@
-## Asistencia de Noviembre de Guupo ERROR-404
+## Asistencia de Noviembre de Grupo ERROR-404
 
 Integrantes:
 
