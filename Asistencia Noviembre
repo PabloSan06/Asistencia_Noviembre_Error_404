@@ -21,3 +21,6 @@ persona2 = Persona('Chavez', 8)
 
 print(persona1 + persona2)
 print(persona1 - persona2)
+
+
+
