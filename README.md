@@ -15,3 +15,5 @@
 - Calle, Sonia -> [link al ejercicio: ](https://github.com/CodeSystem2022/Asistencia_Noviembre_Error_404/blob/main/Ejercicio1.java)
 
 - Berrini Alejandro -> [link al ejercicio](https://github.com/CodeSystem2022/Asistencia_Noviembre_Error_404/blob/main/Berrini_Ejercicios_Arreglos_3.java)
+
+- Alsina Maximiliano ->
