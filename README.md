@@ -17,3 +17,5 @@
 - Berrini Alejandro -> [link al ejercicio](https://github.com/CodeSystem2022/Asistencia_Noviembre_Error_404/blob/main/Berrini_Ejercicios_Arreglos_3.java)
 
 - Alsina Maximiliano -> [link al ejercicio](https://github.com/CodeSystem2022/Asistencia_Noviembre_Error_404/blob/main/Matriz_Ejercicio_3.java)
+
+-Brian Ahumada -> [link al ejercicio: ](https://github.com/CodeSystem2022/Asistencia_Noviembre_Error_404/blob/main/Asistencia.py)
