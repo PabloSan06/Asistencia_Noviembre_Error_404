@@ -20,6 +20,6 @@
 
 - Brian Ahumada -> [link al ejercicio ](https://github.com/CodeSystem2022/Asistencia_Noviembre_Error_404/blob/main/Asistencia.py)
 
-
+- Lucas Navarro -> [link al ejercicio ](https://github.com/CodeSystem2022/Asistencia_Noviembre_Error_404/blob/main/Matriz_ejercicio_4.java)
 
 
