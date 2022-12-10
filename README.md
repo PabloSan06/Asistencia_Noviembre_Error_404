@@ -6,7 +6,7 @@
 
 ### Integrantes:
 
-- Chavez Rodrigo -> [link al ejercicio](https://github.com/CodeSystem2022/Asistencia_Noviembre_Error_404/blob/main/Asistencia%20Noviembre)
+- Chavez Rodrigo -> [link al ejercicio](https://github.com/CodeSystem2022/Asistencia_Noviembre_Error_404/blob/main/Asistencia%20Noviembre.py)
 
 - Costa María Eugenia -> [link al ejercicio](https://github.com/CodeSystem2022/Asistencia_Noviembre_Error_404/blob/main/asistencia-noviembre-costa.py)
 
