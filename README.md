@@ -20,6 +20,6 @@
 
 - Brian Ahumada -> [link al ejercicio ](https://github.com/CodeSystem2022/Asistencia_Noviembre_Error_404/blob/main/Asistencia.py)
 
-
+- Sanguinetti Flores,Pablo -> [link al ejercicio ](https://github.com/PabloSan06/Asistencia_Noviembre_Error_404/blob/main/Asistencia%20Sanguinetti%20Noviembre)
 
 
